@@ -1,0 +1,7 @@
+C:\Users\Zenark\Desktop\Prepa-03-master\Prepa 03\bin\Debug\Prepa 03.exe.config
+C:\Users\Zenark\Desktop\Prepa-03-master\Prepa 03\bin\Debug\Prepa 03.exe
+C:\Users\Zenark\Desktop\Prepa-03-master\Prepa 03\bin\Debug\Prepa 03.pdb
+C:\Users\Zenark\Desktop\Prepa-03-master\Prepa 03\obj\Debug\Prepa 03.csproj.AssemblyReference.cache
+C:\Users\Zenark\Desktop\Prepa-03-master\Prepa 03\obj\Debug\Prepa 03.csproj.CoreCompileInputs.cache
+C:\Users\Zenark\Desktop\Prepa-03-master\Prepa 03\obj\Debug\Prepa 03.exe
+C:\Users\Zenark\Desktop\Prepa-03-master\Prepa 03\obj\Debug\Prepa 03.pdb
